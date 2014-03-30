@@ -117,3 +117,12 @@ confused
 bridge
 tent
 toilet
+anvil
+teapot
+money
+shorts
+lion
+mountain bike
+truck
+fire
+beans
